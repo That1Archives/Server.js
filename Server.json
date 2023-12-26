@@ -1,0 +1,14 @@
+{
+    "requirements":[
+        "Server",
+        "js",
+        "javascript",
+        "localServer",
+        "localTimeServer",
+        "local",
+        "localPort"
+    ],
+    "version":"alpha_server1",
+    "isBeta": false,
+    "isAlpha": true
+}
